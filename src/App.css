@@ -1,0 +1,25 @@
+
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.monitor{
+  margin: 5px ;
+  border: 1px solid #cccccc;
+}
+
+.monitor div {
+  padding: 3px;
+  text-align: start;
+}
+
+.monitor .title {
+  background: #04b4ef;
+}
+
+.monitor span {
+  padding: 2px;
+}
